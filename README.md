@@ -3,11 +3,10 @@
 <p align="middle" >
   <img width="300px;" src="https://user-images.githubusercontent.com/92977647/152990322-3746ab69-4796-4ed9-b747-45db6c510263.png"/>
 </p>
-<h2 align="middle">딥러닝과 관련된 기초 지식 학습을 수행하는 스터디입니다. (1회차) </h2>
+<h2 align="middle">딥러닝 관련 기초 지식 학습을 수행하는 스터디입니다. (1회차) </h2>
 <p align="middle">
 1회차 스터디 Lead : 강준규 - 인공지능 PM
 <br/>
-Today I Leared
 </p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
@@ -42,13 +41,12 @@ Today I Leared
 ### PR 방법
 
 1. **새로운 Branch 생성**
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository `clone`
+2. **스터디 repository를 본인 계정에 fork**
+3. fork 한 repository를 clone
 4. **[계정이름]/README.md를 작성!**
-5. TIL과 url을 적은 README.md 파일을 `commit` `push`
-6. **웹사이트로 본인 계정의 `fork` 된 repo로 가기!**
-7. **Contribute → Open pull request 로 PR!**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
+5. 내용을 정리한 README.md 파일을 commit 및 push
+6. **웹사이트에서 본인 계정에 fork 된 repository로 이동**
+7. **Contribute → Open pull request 로 PR**
 
 <br/>
 <br/>
